@@ -9,7 +9,7 @@ _So, you want to update the software for your user, be it the nodes in your K8s 
    - stopping distances similarities (identify , fix, deploy)
    - the more we wait, the bigger it gets
 
-#### delivery performances : 
+#### delivery performances :  
   - to mesure how can we deliver faster and more stable 
   - only 20% are elite
 
