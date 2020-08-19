@@ -1,6 +1,6 @@
-#kubecon day 3
+# kubecon day 3
 
-####3/10 Simplify your cloud native application packaging and deployments
+#### 3/10 Simplify your cloud native application packaging and deployments
  - porter.sh
 
 cloud-native contient application mais aussi tous les outils
@@ -8,7 +8,7 @@ cloud-native contient application mais aussi tous les outils
 CNAB cloud native application bundle : techno pour packager des apps , cloud agnostic
 
 
-####9/10 Introduction to Helm
+#### 9/10 Introduction to Helm
  - https://helm.sh/
 
 helm == apt, yum, brew
